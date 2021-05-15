@@ -70,3 +70,4 @@ public class SILab2 {
 Слика од графот на контрола:
 
 ![alt text](https://github.com/Dekibuki/SI_lab2_196078/raw/master/ControlFlow.png "Control Flow Graph")
+
